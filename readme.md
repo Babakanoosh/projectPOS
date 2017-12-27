@@ -1,13 +1,20 @@
 # projectPOS
 
-One Paragraph of project description goes here
+The projectPOS is a proof-of-concept nodejs-based Point of Sale system.
 
 ## Getting Started
+- clone directory
+   - git clone https://github.com/Babakanoosh/projectPOS
+- install [node](https://nodejs.org/)
+- install the angular cli
+   - sudo npm install -g @angular/cli
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+~~~
+npm start
 
-### Prerequisites
+> project-pos@0.0.0 start /home/myname/github/projectPOS/projectPOS
+> ng serve
 
-
-### Installing
+** NG Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+~~~
 
