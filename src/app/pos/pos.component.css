@@ -6,8 +6,9 @@
   margin-top: 15px;
 }
 
-tr:nth-child(even) {
-  background-color: #eee;
+
+th, td {
+  text-align: center;
 }
 
 
