@@ -5,3 +5,9 @@
 .col-md-5 {
   margin-top: 15px;
 }
+
+tr:nth-child(even) {
+  background-color: #ccc;
+}
+
+
